@@ -81,10 +81,10 @@ rf_model.pkl
 3. Run the Python application:
 
 ```bash
-python main.py
+python gui.py
 ```
 
-Replace `main.py` with the actual name of your Python file if it is different.
+Replace `gui.py` with the actual name of your Python file if it is different.
 
 ## Important Note
 
